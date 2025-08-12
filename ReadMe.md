@@ -41,8 +41,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight)
 
 ---
 
