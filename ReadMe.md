@@ -1,4 +1,4 @@
-# Hi, I'm Chelsa Mariam John  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=5004&pause=997&color=F7F7F7&center=false&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
 
@@ -26,6 +26,10 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154713?style=for-the-badge&logo=nltk&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-3C9D8B?style=for-the-badge&logo=gensim&logoColor=white)
+![pyLDAvis](https://img.shields.io/badge/pyLDAvis-E34F26?style=for-the-badge&logo=python&logoColor=white)
 
 **Other Skills**  
 - Topic Modeling (**LDA**)  
