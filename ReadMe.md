@@ -60,6 +60,7 @@ Unsupervised learning project applying **Latent Dirichlet Allocation (LDA)** to 
 
 ### [Loan Approval Assistant – RAG Q&A Chatbot](https://github.com/ChelsaMJ/RAG-QnA-Chatbot)
 [app link](https://rag-q-a-chatbot-f4qggzlbwcf3kaz3b7rnrs.streamlit.app/)
+
 A Retrieval-Augmented Generation (RAG) chatbot that answers intelligent queries based on real loan applicant data.  
 **Highlights:**
 - Ingests and chunks structured loan datasets for semantic search
