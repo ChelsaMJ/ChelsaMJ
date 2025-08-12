@@ -40,7 +40,7 @@
 
 ## Featured Projects
 
-### [Hate Speech Detection](https://github.com/username/hate-speech)
+### [Hate Speech Detection](https://github.com/ChelsaMJ/Hate-Speech-Detection)
 A Natural Language Processing project that detects and classifies hate speech from text data.  
 **Highlights:**
 - Used **TF-IDF vectorization** and **Logistic Regression** for classification  
@@ -49,7 +49,7 @@ A Natural Language Processing project that detects and classifies hate speech fr
 
 ---
 
-### [20 Newsgroups Topic Modeling](https://github.com/username/topic-modeling)
+### [20 Newsgroups Topic Modeling](https://github.com/ChelsaMJ/Celebal-Summer-Internship/tree/main/Project)
 Unsupervised learning project applying **Latent Dirichlet Allocation (LDA)** to the 20 Newsgroups dataset for topic discovery.  
 **Highlights:**
 - Implemented text preprocessing: tokenization, stopword removal, and lemmatization  
@@ -58,7 +58,8 @@ Unsupervised learning project applying **Latent Dirichlet Allocation (LDA)** to 
 
 ---
 
-### [Loan Approval Assistant – RAG Q&A Chatbot](https://rag-q-a-chatbot-f4qggzlbwcf3kaz3b7rnrs.streamlit.app/)
+### [Loan Approval Assistant – RAG Q&A Chatbot](https://github.com/ChelsaMJ/RAG-QnA-Chatbot)
+[app link](https://rag-q-a-chatbot-f4qggzlbwcf3kaz3b7rnrs.streamlit.app/)
 A Retrieval-Augmented Generation (RAG) chatbot that answers intelligent queries based on real loan applicant data.  
 **Highlights:**
 - Ingests and chunks structured loan datasets for semantic search
@@ -69,7 +70,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers intelligent queries 
 
 ---
 
-### Word Autocorrector using NLP (Version 1.1)
+### [Word Autocorrector using NLP](https://github.com/ChelsaMJ/Word-Autocorrector-using-NLP)
 An improved word-level autocorrector that suggests accurate spelling corrections using advanced NLP techniques.  
 **Highlights:**
 - Integrated **spaCy** for lemmatization and **NLTK corpora** for real vocabulary coverage
@@ -80,7 +81,7 @@ An improved word-level autocorrector that suggests accurate spelling corrections
 
 ---
 
-### Entrenet – Entrepreneur Networking App
+### [Entrenet – Entrepreneur Networking App](https://github.com/ChelsaMJ/Entrenet-Android-App)
 An Android application designed to connect entrepreneurs with mentors and foster collaboration.  
 **Highlights:**
 - User profiles for entrepreneurs and mentors
@@ -99,8 +100,7 @@ An Android application designed to connect entrepreneurs with mentors and foster
 ---
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chelsamj) 
 
 ---
 
