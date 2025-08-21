@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=5004&pause=997&color=F7F7F7&center=false&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=997&color=F7F7F7&center=false&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
 
