@@ -20,6 +20,11 @@
 - Internship: **Data Science Intern @ Celebal Technologies**  
 
 ---
+<div align="center">
+
+<img src="./assets/white_cat.gif" alt="Cat GIF" width="350"/>
+
+</div>
 
 ## Tech Stack
 
@@ -109,6 +114,11 @@ An Android application designed to connect entrepreneurs with mentors and foster
 
 
 ---
+<div align="center">
+
+<img src="./assets/cat_round.gif" alt="Cat GIF" width="350"/>
+
+</div>
 
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight)  
@@ -119,8 +129,6 @@ An Android application designed to connect entrepreneurs with mentors and foster
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chelsamj) 
-
----
 
 
 
