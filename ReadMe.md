@@ -48,6 +48,12 @@
 
 ---
 
+<div align="center">
+
+<img src="./assets/cat_walk.gif" alt="Cat GIF" width="350"/>
+
+</div>
+
 ## Featured Projects
 
 ### [Hate Speech Detection](https://github.com/ChelsaMJ/Hate-Speech-Detection)
@@ -116,9 +122,11 @@ An Android application designed to connect entrepreneurs with mentors and foster
 
 ---
 
-*"Code. Debug. Learn. Repeat."*
 
-<div align="left">
+
+<div align="center">
+
+*"Code. Debug. Learn. Repeat."*
 
 <img src="./assets/cat_fish.jpg" alt="Cat GIF" width="350"/>
 
