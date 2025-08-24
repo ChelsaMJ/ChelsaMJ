@@ -1,6 +1,14 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=false&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
+<div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
+
+<img src="./assets/cat_eyes.gif" alt="Cat GIF" width="350"/>
+
+</div>
+
+
 
 ---
 
@@ -100,6 +108,7 @@ An Android application designed to connect entrepreneurs with mentors and foster
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight)
 
+
 ---
 
 ## Connect with Me
@@ -108,3 +117,9 @@ An Android application designed to connect entrepreneurs with mentors and foster
 ---
 
 *"Code. Debug. Learn. Repeat."*
+
+<div align="left">
+
+<img src="./assets/cat_fish.jpg" alt="Cat GIF" width="350"/>
+
+</div>
