@@ -20,11 +20,6 @@
 - Internship: **Data Science Intern @ Celebal Technologies**  
 
 ---
-<div align="center">
-
-<img src="./assets/white_cat.gif" alt="Cat GIF" width="350"/>
-
-</div>
 
 ## Tech Stack
 
