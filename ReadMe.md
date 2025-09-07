@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
 
@@ -10,8 +10,6 @@
 
 
 
----
-
 ## About Me
 - Passionate about **Data Structures & Algorithms**, **Data Science**, and **Full-Stack Development**  
 - Experienced in **Python**, **Java**, **SQL**, and **Web Technologies**  
@@ -19,7 +17,6 @@
 - Currently exploring **Advanced DSA** and **Scalable Data Processing**  
 - Internship: **Data Science Intern @ Celebal Technologies**  
 
----
 
 ## Tech Stack
 
@@ -47,7 +44,6 @@
 - Data Analysis & Visualization  
 - Problem Solving (DSA)  
 
----
 
 <div align="center">
 
@@ -109,7 +105,6 @@ An Android application designed to connect entrepreneurs with mentors and foster
 **Tech Stack:** Java (Android), XML, Firebase (Authentication & Realtime Database)
 
 
----
 <div align="center">
 
 <img src="./assets/cat_round.gif" alt="Cat GIF" width="350"/>
@@ -121,7 +116,6 @@ An Android application designed to connect entrepreneurs with mentors and foster
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight)
 
 
----
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chelsamj) 
