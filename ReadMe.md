@@ -105,15 +105,22 @@ An Android application designed to connect entrepreneurs with mentors and foster
 **Tech Stack:** Java (Android), XML, Firebase (Authentication & Realtime Database)
 
 
-<div align="center">
-
-<img src="./assets/cat_round.gif" alt="Cat GIF" width="350"/>
-
-</div>
 
 ## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="./assets/cat_round.gif" alt="Cat GIF" width="350"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
