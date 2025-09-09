@@ -22,27 +22,26 @@
 
 **Languages**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,kotlin,java,mysql," />
+  </a>
+</p>
+
 
 **Frameworks & Tools**  
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,netlify,firebase,gcp,git,github,autocad,bash,linux,ai,anaconda,androidstudio,pkl,pytorch,regex,sklearn,tensorflow,ubuntu," />
+  </a>
+</p>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154713?style=for-the-badge&logo=nltk&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-3C9D8B?style=for-the-badge&logo=gensim&logoColor=white)
-![pyLDAvis](https://img.shields.io/badge/pyLDAvis-E34F26?style=for-the-badge&logo=python&logoColor=white)
 
-**Other Skills**  
-- Topic Modeling (**LDA**)  
-- Data Analysis & Visualization  
-- Problem Solving (DSA)  
 
 
 <div align="center">
