@@ -31,7 +31,7 @@
 
 **Frameworks & Tools**  
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,netlify,firebase,gcp,git,github,autocad,bash,linux,ai,anaconda,androidstudio,pkl,pytorch,regex,sklearn,tensorflow,ubuntu," />
   </a>
