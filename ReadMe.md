@@ -121,6 +121,12 @@ An Android application designed to connect entrepreneurs with mentors and foster
   </tr>
 </table>
 
+## LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/chelsamj?theme=dark" alt="LeetCode Profile" Width=500px />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=chelsamj&theme=dark&animated=true" alt="LeetCode Badge" />
+</p>
+
 
 
 
