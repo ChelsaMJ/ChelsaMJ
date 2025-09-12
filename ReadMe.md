@@ -111,20 +111,17 @@ An Android application designed to connect entrepreneurs with mentors and foster
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
-    </td>
-    <td>
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=chelsamj&theme=highcontrast" alt="GitHub Streak"/>
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
-  </tr>
-  <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=chelsamj&theme=tokyonight" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="./assets/cat_round.gif" alt="Cat GIF" width="250"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChelsaMJ&bg_color=000000&color=ffffff&line=016f19&point=bdbfc1&area=true&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
+
 
 
 
