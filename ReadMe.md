@@ -111,14 +111,22 @@ An Android application designed to connect entrepreneurs with mentors and foster
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=chelsamj&show_icons=true&theme=tokyonight" alt="My GitHub Stats"/>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
     <td>
-      <img src="./assets/cat_round.gif" alt="Cat GIF" width="350"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsamj&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=chelsamj&theme=tokyonight" alt="GitHub Streak"/>
+    </td>
+    <td>
+      <img src="./assets/cat_round.gif" alt="Cat GIF" width="250"/>
     </td>
   </tr>
 </table>
+
+
 
 ## LeetCode Stats
 <p align="center">
