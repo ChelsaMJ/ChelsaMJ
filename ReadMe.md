@@ -4,7 +4,7 @@
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
 
-<img src="./assets/cat_eyes.gif" alt="Cat GIF" width="350"/>
+<img src="./assets/cat_eyes_clean.gif" alt="Cat GIF" width="350"/>
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="./assets/cat_skel.gif" alt="Cat GIF" width="350"/>
+<img src="./assets/cat_skel_clean.gif" alt="Cat GIF" width="350"/>
 
 </div>
 
