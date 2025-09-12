@@ -143,6 +143,6 @@ An Android application designed to connect entrepreneurs with mentors and foster
 
 *"Code. Debug. Learn. Repeat."*
 
-<img src="./assets/cat_fish.jpg" alt="Cat GIF" width="350"/>
+<img src="./assets/cat_fish_png.png" alt="Cat GIF" width="350"/>
 
 </div>
