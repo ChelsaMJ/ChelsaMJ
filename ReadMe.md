@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
 **Final Year B.Tech CSE Student** | **Data Science Enthusiast**  
+[Visit my Portfolio!](https://chelsa-portfolio.netlify.app/)
 
 <img src="./assets/cat_eyes_clean.gif" alt="Cat GIF" width="350"/>
 
