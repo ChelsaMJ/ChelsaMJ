@@ -118,7 +118,7 @@ An Android application designed to connect entrepreneurs with mentors and foster
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChelsaMJ&layout=compact&theme=dark" alt="Top Languages"/>
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChelsaMJ&bg_color=000000&color=ffffff&line=016f19&point=bdbfc1&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChelsaMJ&bg_color=000000&color=ffffff&line=016f19&point=bdbfc1&area=true&hide_border=true&width=800&height=700" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
