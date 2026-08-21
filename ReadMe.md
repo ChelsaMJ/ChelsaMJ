@@ -114,7 +114,7 @@ An Android application designed to connect entrepreneurs with mentors and foster
     <td>
       <img src="https://github-stats-extended.vercel.app/api?username=ChelsaMJ&show_icons=true&theme=dark" alt="My GitHub Stats"/>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=ChelsaMJ&theme=highcontrast" alt="GitHub Streak"/>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChelsaMJ&theme=highcontrast" alt="GitHub Streak" /></a>
       <br/>
       <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ChelsaMJ&layout=compact&theme=dark" alt="Top Languages"/>
     </td>
