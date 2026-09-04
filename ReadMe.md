@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=800&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+Chelsa+MJ+here!)](https://git.io/typing-svg)
 
-**B.Tech CSE Graducate** | **Data Science Enthusiast**  
+**B.Tech CSE Graduate** | **Data Science Enthusiast**  
 <a href="http://chelsaportfolio.vercel.app/" target="_blank">Visit my Portfolio!</a>
 
 
