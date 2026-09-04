@@ -13,10 +13,10 @@
 
 
 ## About Me
-- Passionate about **Data Structures & Algorithms**, **Data Science**, and **Full-Stack Development**  
-- Experienced in **Python**, **Java**, **SQL**, and **Web Technologies**  
+- Passionate about **Data Science**, **Artificial Intelligence**, and **Android & Full-Stack Development**  
+- Experienced in **Python**, **Java**, **SQL**, **Kotlin**, and **Web Technologies**  
 - Interested in **Machine Learning**, **Topic Modeling (LDA)**, and **Big Data Tools** like Hadoop & Hive  
-- Currently exploring **Advanced DSA** and **Scalable Data Processing**  
+- Currently exploring **AWS Cloud** and **Scalable Data Processing**  
 - Internship: **Data Science Intern @ Celebal Technologies**  
 
 
